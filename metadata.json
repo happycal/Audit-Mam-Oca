@@ -1,0 +1,5 @@
+{
+  "name": "CyberAudit Pro",
+  "description": "A comprehensive cybersecurity risk assessment and security audit platform based on NIST CSF and OWASP standards.",
+  "requestFramePermissions": []
+}
